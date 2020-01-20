@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-intermediate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jlengstorf/gatsby-intermediate.git",
+  "author": "Mumeen Idris <idris@herlabytes.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ]
+}
